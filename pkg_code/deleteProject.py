@@ -1,0 +1,3 @@
+
+def deleteProject():
+    print("deleteProject")
